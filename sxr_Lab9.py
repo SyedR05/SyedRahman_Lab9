@@ -1,4 +1,4 @@
-
+#Name: Syed Rahman
 def encode(password):
     temp_pass_list = [int(num) for num in str(password)]
     temp_pass_list = [(num+3) for num in temp_pass_list]
